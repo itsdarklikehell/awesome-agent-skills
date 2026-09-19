@@ -39,6 +39,13 @@ Compatible with Claude Code, Codex, Antigravity, Gemini CLI, Cursor, GitHub Copi
 The most contributed Agent Skills repository, built and maintained together with the community.
 
 
+---
+
+## Development Visualization
+
+<video src="https://github.com/itsdarklikehell/awesome-agent-skills/assets/example.com/123456/gource.mp4" controls width="100%"></video>
+
+*Gource visualization showing the repository's commit history. See the [Gource workflow](.github/workflows/gource.yml) for details.*
 ## 💛 Sponsors
 
 |  |  |
