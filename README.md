@@ -31,6 +31,13 @@
 
 # Awesome Agent Skills
 
+[![CI](https://github.com/itsdarklikehell/awesome-agent-skills/actions/workflows/ci.yml/badge.svg)](https://github.com/itsdarklikehell/awesome-agent-skills/actions/workflows/ci.yml)
+[![Gource](https://github.com/itsdarklikehell/awesome-agent-skills/actions/workflows/gource.yml/badge.svg)](https://github.com/itsdarklikehell/awesome-agent-skills/actions/workflows/gource.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub issues](https://img.shields.io/github/issues/itsdarklikehell/awesome-agent-skills)](https://github.com/itsdarklikehell/awesome-agent-skills/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/itsdarklikehell/awesome-agent-skills)](https://github.com/itsdarklikehell/awesome-agent-skills/pulls)
+
+
 Unlike many bulk-generated skill repositories, this collection focuses on real-world Agent Skills created and used by actual engineering teams, not mass AI‑generated stuff.
 
 
