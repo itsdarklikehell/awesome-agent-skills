@@ -1,7 +1,8 @@
 # Release Notes
 
-## 2026-10-02
+## 2026-10-03
 
+* docs: update RELEASE_NOTES.md (e0c827e)
 * docs: add README badges (963387b)
 * chore: add GitHub templates and workflows (1d70027)
 * ci: update gource visualization (automated) (47c4932)
@@ -21,4 +22,3 @@
 * docs: fix gource video URL in README (placeholder → raw.githubusercontent.com) (34d2b46)
 * Update README (720ba0a)
 * Add skill: cloudflare/security-audit-skill (5e553d3)
-* Add lukstei/slop-grader to Community Skills (3eedda5)
